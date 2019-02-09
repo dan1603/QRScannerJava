@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="indentation_0">0dp</dimen>
+    <dimen name="indentation_1">1dp</dimen>
+    <dimen name="indentation_2">2dp</dimen>
+    <dimen name="indentation_4">4dp</dimen>
+    <dimen name="indentation_5">5dp</dimen>
+    <dimen name="indentation_6">6dp</dimen>
+    <dimen name="indentation_7">7dp</dimen>
+    <dimen name="indentation_8">8dp</dimen>
+    <dimen name="indentation_10">10dp</dimen>
+    <dimen name="indentation_11">11dp</dimen>
+    <dimen name="indentation_12">12dp</dimen>
+    <dimen name="indentation_14">14dp</dimen>
+    <dimen name="indentation_15">15dp</dimen>
+    <dimen name="indentation_16">16dp</dimen>
+    <dimen name="indentation_18">18dp</dimen>
+    <dimen name="indentation_20">20dp</dimen>
+    <dimen name="indentation_22">22dp</dimen>
+    <dimen name="indentation_23">23dp</dimen>
+    <dimen name="indentation_24">24dp</dimen>
+    <dimen name="indentation_25">25dp</dimen>
+    <dimen name="indentation_33">33dp</dimen>
+    <dimen name="indentation_40">40dp</dimen>
+    <dimen name="indentation_41">41dp</dimen>
+    <dimen name="indentation_50">50dp</dimen>
+    <dimen name="indentation_125">125dp</dimen>
+    <dimen name="indentation_180">180dp</dimen>
+    <dimen name="indentation_200">200dp</dimen>
+
+    <dimen name="txt_size_8">8sp</dimen>
+    <dimen name="txt_size_9">9sp</dimen>
+    <dimen name="txt_size_10">10sp</dimen>
+    <dimen name="txt_size_11">11sp</dimen>
+    <dimen name="txt_size_14">14sp</dimen>
+    <dimen name="txt_size_16">16sp</dimen>
+    <dimen name="txt_size_18">18sp</dimen>
+    <dimen name="txt_size_20">20sp</dimen>
+    <dimen name="txt_size_24">24sp</dimen>
+    <dimen name="txt_size_30">30dp</dimen>
+
+    <dimen name="tab_max_width">50</dimen>
+
+    <dimen name="radius_4">4dp</dimen>
+    <dimen name="size_18">18dp</dimen>
+
+</resources>

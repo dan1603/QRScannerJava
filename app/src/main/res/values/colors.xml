@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="white">#fff</color>
+    <color name="primary">#fff</color>
+    <color name="black">#000</color>
+    <color name="colorLightGray">#cccdce</color>
+    <!-- added from Sandyk -->
+    <color name="transparent">#00000000</color>
+    <color name="colorGray_1">#9c9c9c</color>
+    <color name="true_black">#000000</color>
+    <color name="darkSkyBlue">#418de7</color>
+    <color name="windows_blue">#4b6ec9</color>
+    <color name="light_navy_blue">#304c95</color>
+    <color name="steel">#8a8c98</color>
+    <color name="pinkish_gray">#d1d1d1</color>
+    <color name="blue">#304c95</color>
+    <color name="light_blue">#d5e2f7</color>
+    <color name="soft_gray">#8a8c98</color>
+    <color name="soft_blue">#6b8de5</color>
+    <color name="dark_80">#cc191c2a</color>
+    <color name="white_two">#fafafa</color>
+    <color name="pinkish_grey">#ff9595</color>
+    <color name="tvColorRecoverAccount">#cc191c2a</color>
+    <color name="color_recover_password_btn">#4b6ec9</color>
+    <color name="purpure">#c6a8f0</color>
+    <color name="red">#C72319</color>
+</resources>

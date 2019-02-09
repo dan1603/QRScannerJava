@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+
+            <android.support.v4.view.ViewPager
+                android:id="@+id/pager_gallery_detail"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" />
+
+            <com.rbrooks.indefinitepagerindicator.IndefinitePagerIndicator
+                android:id="@+id/pager_gallery_indicator_detail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom|center_horizontal"
+                android:layout_marginBottom="@dimen/indentation_16"
+                app:dotColor="@android:color/darker_gray"
+                app:dotRadius="@dimen/indentation_4"
+                app:selectedDotColor="#fff" />
+        </FrameLayout>
+
+</RelativeLayout>

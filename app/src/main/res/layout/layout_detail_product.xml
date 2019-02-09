@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/llRvProductItem"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="@dimen/indentation_16">
+
+    <include layout="@layout/item_product_pager"/>
+
+    <TextView
+        android:id="@+id/tv_rv_product_price"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/indentation_16"
+        android:layout_marginEnd="@dimen/indentation_16"
+        android:textSize="@dimen/txt_size_20"
+        android:text="@string/item_def_text_price"/>
+
+    <TextView
+        android:id="@+id/tv_rv_product_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:maxLines="1"
+        android:ellipsize="end"
+        android:maxLength="20"
+        android:layout_marginStart="@dimen/indentation_16"
+        android:layout_marginEnd="@dimen/indentation_16"
+        android:layout_marginTop="@dimen/indentation_8"
+        android:textSize="@dimen/txt_size_16"
+        android:text="@string/item_def_text_title" />
+
+    <TextView
+        android:id="@+id/tv_rv_product_desc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/indentation_16"
+        android:layout_marginEnd="@dimen/indentation_16"
+        android:textSize="@dimen/txt_size_14"
+        android:layout_marginBottom="@dimen/indentation_16"
+        android:text="@string/item_def_text_description"/>
+
+</LinearLayout>

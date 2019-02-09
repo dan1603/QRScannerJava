@@ -1,0 +1,192 @@
+<resources>
+    <string name="app_name">QRScanner</string>
+    <string name="error">The error occured</string>
+    <string name="txt_bottom_dialog_message">Bottom dialog message</string>
+
+    <string name="txt_dialog_bottom_scan">Scan product</string>
+    <string name="txt_dialog_bottom_cancel">Cancel</string>
+    <string name="item_def_text_price">Price</string>
+    <string name="item_def_text_title">Title</string>
+    <string name="item_def_text_description">Description</string>
+    <string name="btn_scan_text">SCAN</string>
+
+    <string-array name="mok_product_id">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+    </string-array>
+    <string-array name="mok_product_title">
+        <item>iPhone XR</item>
+        <item>Xiaomi Redmi Note 6 Pro</item>
+        <item>Samsung A750F Galaxy</item>
+        <item>Sony Xperia XA1</item>
+        <item>Meizu M6T</item>
+        <item>Huawei P Smart Plus 2018</item>
+        <item>OnePlus 6T</item>
+        <item>Asus ZenFone Max M2</item>
+        <item>Blackview A20</item>
+        <item>LG G7 ThinQ</item>
+        <item>Nokia 6.1 Plus</item>
+        <item>Sigma X-treme PQ24</item>
+        <item>Honor 9</item>
+        <item>Ulefone Mix 2</item>
+        <item>Caterpillar CAT S41</item>
+    </string-array>
+    <string-array name="mok_product_description">
+        <item>iPhone XR - a representative of the new line of smartphones Apple. In the XR version (read as "ten R"), the smartphone received a design from the standard iPhone X model, but the back panel is made in the image of the iPhone 8 made of glass. The lineup now has a choice of 6 colors. Unlike X, the XR is equipped with an IPS matrix, not AMOLED, but this is still a high-quality screen with an expanded color gamut, albeit with a relatively low resolution. The filling of the smartphone is new. The processor uses the Apple A12 Bionic chip, not just fast, but also smart enough, thanks to the support of machine learning. Taking pictures of a smartphone is also good, the 12-megapixel module with f / 1.9 aperture is used as the main camera, including the ability to record video in 4K resolution at 60 frames per second.</item>
+        <item>Xiaomi Redmi Note 6 Pro - a novelty in the line of smartphones of the company, which combined the updated design and excellent equipment. The model received a frameless design, which allowed to fit into a fairly compact dimensions screen with a diagonal of 6.26-inch. It is made by IPS technology and has a resolution of 2248x1080 pixels, thereby achieving high clarity and image accuracy. To ensure a good level of performance, Xiaomi Redmi Note 6 Pro is equipped with an 8-core Qualcomm Snapdragon 636 processor. Photofilm lovers will appreciate the dual camera consisting of 12 and 5 MP modules with HDR support and the ability to shoot at 30 frames and a resolution of 2160p . Xiaomi Redmi Note 6 Pro is a well-balanced mid-level smartphone that has virtually no weaknesses.</item>
+        <item>Spread the frames of your photos. Thanks to the main triple camera Galaxy A7 with lenses for wide-angle shooting, shooting in low light conditions and portrait shooting with a boke effect (Live Focus function) more beauty of the surrounding world will be reflected on your photos. A camera that calculates every next step. This is an intelligent triple camera system of the Galaxy A7, which automatically adjusts the color saturation, white balance and brightness level. Moreover, it has 19 special settings for different types of shooting, bringing your photos to reality as far as possible.</item>
+        <item>Stylish design. The Xperia XA1 Ultra is distinguished by high-precision parts and a prestigious design with an aluminum frame around the case and 2.5D glass. The surfaces and faces of this smartphone smoothly flow into each other, making it a pleasure to hold it in your hands. Always great shots. Both the main and front cameras of this smartphone have ultra-high resolution, so now a dim light will not prevent you from taking clear photos with high-quality color reproduction. Selfie per million. Take stunning selfies on a 16 megapixel front camera that shoots in high resolution with great color reproduction.</item>
+        <item>Powerful dual main camera. The main camera of the Meizu M6T consists of a 13 megapixel camera and an additional 2 megapixel camera. With the available bokeh effect function, you can take photographs of quality comparable to the photographs taken on a reflex camera - with increased background depth. The main camera has a four-color sensor installed, with which you get perfect pictures even in low light conditions. The front camera of the Meizu M6T is equipped with a Samsung CMOS sensor with an aperture of, / 2.0, which, thanks to the expanded sensor, attracts more light, allowing you to significantly improve the quality of photos. With a finely tuned editing algorithm from ArcSoft, the Meizu M6T naturally edits skin tone and the finest details of a portrait.</item>
+        <item>Touching the magic. Choose your version of perfection. Smartphone Huawei P Smart Plus is available in two colors: Black or Iris Purple. Thanks to the wonderful shades, this comfortable smartphone with a glass and metal housing has a very attractive look. A 6.3-inch high-definition FHD + (2340 x 1080) screen provides impeccable image quality. Two front cameras for wonderful selfies. With high-definition details and accurate data on the depth of the image, which provide two front-facing cameras of 24 Mp + 2 Mp, the Huawei P Smart Plus smartphone will give your selfie a more attractive and natural look using a special algorithm. In addition, the powerful background image recognition function can change its appearance with the help of artificial intelligence to emphasize your true beauty in a selfie.</item>
+        <item>The updated design of OnePlus 6T with a drop-like neckline at the top of the screen favorably distinguishes this smartphone compared to other similar flagships. He has his own character and a bright personality. Wrapped in sturdy glass of Corning Gorilla Glass 6, this smartphone is simply fascinating for its glossy shine, elegance of lines and elegance of forms. And at the same time it is reliably protected from scratches and minor damages. Unlimited space of bright colors. Enjoy movies and games on the huge OnePlus 6T screen. Almost the entire front panel of the smartphone is filled with a bright 6.41-inch AMOLED-display with a resolution of 2280 by 1080 pixels. The image on it is the most clear, detailed and incredibly juicy.</item>
+        <item>The new ZenFone Max M2 smartphone offers improvements in all aspects compared to its predecessor. Its frameless display has become larger - the diagonal is 6.3 inches. Its Snapdragon 632 processor has more performance, and its battery provides greater autonomy. In combination with high-quality dual camera and great sound, all this makes the ZenFone Max M2 a great companion for any adventure. 4000 mAh battery - 2 days without recharging. (Results may vary depending on the conditions of testing and use of the smartphone). 6.3 ”full-screen display.</item>
+        <item>Blackview A20 looks restrained and attractive at the same time. This is facilitated by an ultra-thin body, smooth lines, a large screen with minimal frames and a volumetric geometric pattern on the back of the device. Due to the fact that the phone case is made of durable polycarbonate, it is quite light, comfortable in the hand and does not slip. All of this has a positive effect on the usability of the A20. The bright 5.5-inch IPS-screen of the Blackview A20 provides excellent picture quality and the ability to work comfortably both in the dark and in bright daylight. The widescreen display with an 18: 9 aspect ratio is great for chatting with friends and colleagues, watching videos or watching the news feed. It is covered with curved glass AN Wizus from the worlds leading manufacturer AGC. The glass reliably protects the touch screen from damage and creates the effect of the absence of side frames, smoothly fitting into the phone body.</item>
+        <item>Aesthetics in design. An elegant, slim, convenient one-handed smartphone in a metal case. A large 6.1-inch QHD + display with a 19.5: 9 aspect ratio will surely catch your attention. Super-bright LCD display two times brighter than the displays of smartphones on the market today *. The LG G7 ThinQ it reaches 1000 nits and provides excellent readability even in direct sunlight. Engineers took care of energy saving, the display consumes 30 less energy than the previous flagship at the same brightness level. The smartphone has an intelligent camera shell. It is able to recognize many objects and shooting scenarios: people, animals, food, sunrise, city, sky, and others, offering one of 19 shooting modes.</item>
+        <item>More screen, less extraneous parts. A 5.8 ’’ Full HD + display with a 19: 9 aspect ratio makes you closer to the center of events, whether you are at home or on the road. The screen takes up almost the entire phone. Therefore, when you watch a video or send a message to a friend, you see everything. Nokia 6.1 Plus draws attention right away. Favorite games and TV shows will play in a new way on this amazing frameless display. Thanks to the rounded edges, the phone is comfortable to hold in your hand and in your pocket.</item>
+        <item>The smartphone runs on a four-core MediaTek MTK6580 processor with a clock speed of 1.3 GHz running Android 5.1 and the Mali-400 graphics core. The device is equipped with a 5 "color screen with an IPS-matrix of HD format with a resolution of 1280x720 pixels, which is protected by Gorilla Glass 3 glass of increased resistance to scratches and bumps up to 32 GB. X-treme PQ24 supports two nano SIM cards in a GSM network, or one nanoSIM and one microSD card. The smartphone is equipped with 8 megapixel main and 2 megapixel front cameras, acts as a navigator thanks to an integrated GPS module, and works on the Internet thanks to the WiFi module and under keeps work in high-speed 3G-networks, as well as the ability to share data via Bluetooth 4.0.</item>
+        <item>In the Quik app, you can create short video stories from photos and videos in a few taps and share them with family and friends. Moreover, in Honor 9 there is a feature that records a short video for 2 seconds each time a photo is taken to capture the moment before and after the photo. This gives an incredible charm to your Quik created stories.</item>
+        <item>Smartphone Mix 2 is a logical continuation of the line of elegant frameless gadgets of the company Ulefone. Instead of one wide frame, two incredibly narrow frames appeared below, surrounding a 5.7-inch display, above and below. The colorful and inspiring HD screen with a pixel density of 282ppi is decorated with curved glass. The touch to the large and sensitive display causes delight and gives indescribable joy. Not only the front, but also the rear panel of the device looks luxurious. On the reverse side there is a fingerprint scanner area and dual cameras of 13 and 5 megapixels. The main lens consists of a six-element lens. You can create creative images using the full potential of the two sensors. Change the sharpness of objects and feel like a professional photographer!</item>
+        <item>Caterpillar CAT S41. Reliable, durable and functional Caterpillar CAT S41 will be for you the best companion in any adventure. This smartphone is perfectly protected from any adversity and is suitable for those who work in extreme conditions or love to travel to the most unusual corners of our planet. And also to those who just want to have a super-protected phone, which is not afraid of falling, dust, water or high temperatures. And in the snowy northern latitudes, and in the sands of the desert CAT S41 will work equally well. It is designed for temperatures from -25 ° C to 55 ° C, is resistant to pressure and is protected from sand, dust and vibration (it was tested according to the methods of the military standard of the US Army MIL-STD-810G). The phone is also IP68 certified, which means that it can work normally even under water at a depth of up to 2 meters (for 1 hour) and can withstand a fall from a height of 1.8 meters to concrete.</item>
+    </string-array>
+    <string-array name="mok_product_price">
+        <item>24000</item>
+        <item>6999</item>
+        <item>8999</item>
+        <item>4499</item>
+        <item>2999</item>
+        <item>7499</item>
+        <item>17999</item>
+        <item>5499</item>
+        <item>1999</item>
+        <item>20199</item>
+        <item>6499</item>
+        <item>3399</item>
+        <item>6999</item>
+        <item>2799</item>
+        <item>9999</item>
+    </string-array>
+    <!--CODE TYPE = UPC-A -->
+    <string-array name="mok_product_code">
+        <item>72527273100</item>
+        <item>72527273101</item>
+        <item>72527273102</item>
+        <item>72527273103</item>
+        <item>72527273104</item>
+        <item>72527273105</item>
+        <item>72527273106</item>
+        <item>72527273107</item>
+        <item>72527273108</item>
+        <item>72527273109</item>
+        <item>72527273110</item>
+        <item>72527273111</item>
+        <item>72527273112</item>
+        <item>72527273113</item>
+        <item>72527273114</item>
+    </string-array>
+    <string-array name="mok_product_is_scanned">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </string-array>
+    <!-- ФОТКИ -->
+    <string-array name="mok_product_iphonexr_img">
+        <item>https://i.citrus.ua/imgcache/size_500/uploads/shop/5/5/5533198c217ea9a4280fdf804df8f088.jpg</item>
+        <item>https://itc.ua/wp-content/uploads/2018/10/28267-43697-iPhone-XR-color-lineup-l.jpg</item>
+    </string-array>
+    <string-array name="mok_product_xiaomi_img">
+        <item>http://appleavenue.ru/upload/iblock/c00/c00ec1c8c809f54fca1f6b41797db2cc.jpg</item>
+        <item>https://www.notebookcheck-ru.com/fileadmin/_processed_/f/4/csm_IMG_20181020_141016_d704a7abaf.jpg</item>
+    </string-array>
+    <string-array name="mok_product_samsung_img">
+        <item>https://i.citrus.ua/imgcache/size_800/uploads/shop/0/c/0c8ca9bb2f73d39d6be6376feb35d0f7.jpg</item>
+        <item>https://i.citrus.ua/imgcache/size_800/uploads/shop/f/a/fac22f0f9cde468f87dcad58b869822d.jpg</item>
+    </string-array>
+    <string-array name="mok_product_sony_img">
+        <item>https://i.citrus.ua/imgcache/size_800/uploads/shop/7/2/721703c9162afbef601f7568e30aa3e3.jpg</item>
+        <item>https://i.citrus.ua/imgcache/size_800/uploads/shop/a/6/a63bfa2363aa4cb5ec8d0033f047c7d7.jpg</item>
+        <item>https://i.citrus.ua/imgcache/size_1000/uploads/shop/8/8/88e6aa4fce0b489c6da528bdc0384796.jpg</item>
+    </string-array>
+    <string-array name="mok_product_meizu_img">
+        <item>https://i.citrus.ua/imgcache/size_800/uploads/shop/5/9/5949de2a62438d43aef5367c53d2a356.jpg</item>
+        <item>https://i.citrus.ua/imgcache/size_800/uploads/shop/f/2/f2c2d4c8fb314fca0c644bcc4adfa27c.jpg</item>
+        <item>https://i.citrus.ua/imgcache/size_800/uploads/shop/7/6/76c9bfade20dd2de83ddabf818cce1ef.jpg</item>
+    </string-array>
+    <string-array name="mok_product_huawei_img">
+        <item>https://i.citrus.ua/imgcache/size_800/uploads/shop/9/8/98536cbebf6e93adf137e08dbb28c575.jpg</item>
+    </string-array>
+    <string-array name="mok_product_oneplus_img">
+        <item>https://i.citrus.ua/imgcache/size_800/uploads/shop/d/3/d38309c2b911e037ff2ba254b66a1dc8.jpg</item>
+        <item>https://i.citrus.ua/imgcache/size_800/uploads/shop/4/8/48606a23eb237fba581ede7326dde6b6.jpg</item>
+        <item>https://i.citrus.ua/imgcache/size_800/uploads/shop/4/b/4bf45598d297d19d251a5214dd325a45.jpg</item>
+    </string-array>
+    <string-array name="mok_product_asus_img">
+        <item>https://i.citrus.ua/imgcache/size_800/uploads/shop/1/7/1700785c41327c2d6e956fdf2705c35c.jpg</item>
+        <item>https://i.citrus.ua/imgcache/size_800/uploads/shop/9/e/9ee938f0c17eb51b74bfa0af75e2403d.jpg</item>
+    </string-array>
+    <string-array name="mok_product_blackview_img">
+        <item>https://i.citrus.ua/imgcache/size_800/uploads/shop/4/e/4ef45f3923dde983e7095520cbf59dac.jpg</item>
+        <item>https://i.citrus.ua/imgcache/size_800/uploads/shop/2/d/2d06a28d6f9a39ed33ed3375fd04dbcc.jpg</item>
+        <item>https://i.citrus.ua/imgcache/size_800/uploads/shop/5/9/59167d826ab9f4804064403f4ac4a57e.jpg</item>
+    </string-array>
+    <string-array name="mok_product_lg_img">
+        <item>https://i.citrus.ua/imgcache/size_800/uploads/shop/8/d/8de87eea4a31d7971d6edac175646919.jpg</item>
+        <item>https://i.citrus.ua/imgcache/size_800/uploads/shop/f/b/fb4b752a772eba3a402c467802b69117.jpg</item>
+    </string-array>
+    <string-array name="mok_product_nokia_img">
+        <item>https://i.citrus.ua/imgcache/size_800/uploads/shop/4/9/49669ac467e3334f0cf0a315f972fc2f.jpg</item>
+        <item>https://i.citrus.ua/imgcache/size_1000/uploads/shop/7/e/7e77ce8091c12d8a32d4285d32701c7e.jpg</item>
+        <item>https://i.citrus.ua/imgcache/size_1000/uploads/shop/a/f/af203e439cefe818f34dc7d10a12af10.jpg</item>
+    </string-array>
+    <string-array name="mok_product_sigma_img">
+        <item>https://i.citrus.ua/imgcache/size_1000/uploads/shop/9/a/9a345efe728b0c3e61361c9aa419b2de.jpg</item>
+        <item>https://i.citrus.ua/imgcache/size_1000/uploads/shop/e/c/ecba1b600e1864e6fe9f7d17cf99faee.jpg</item>
+        <item>https://i.citrus.ua/imgcache/size_1000/uploads/shop/4/e/4e37141251a403917cb8c4ff78d9ee8d.jpg</item>
+    </string-array>
+    <string-array name="mok_product_honor_img">
+        <item>https://i.citrus.ua/imgcache/size_800/uploads/shop/e/e/eebbfdf56fac7989b728338199b4ccc3.jpg</item>
+        <item>https://i.citrus.ua/imgcache/size_1000/uploads/shop/5/f/5f34692692175b737064ec1513158c4a.jpg</item>
+    </string-array>
+    <string-array name="mok_product_ulefone_img">
+        <item>https://i.citrus.ua/imgcache/size_800/uploads/shop/e/1/e128c812bf3f4ce772de59273efd09ed.jpg</item>
+        <item>https://i.citrus.ua/imgcache/size_1000/uploads/shop/8/1/810e8e5551f4f602cfdb2a378867a654.jpg</item>
+    </string-array>
+    <string-array name="mok_prodict_cat_img">
+        <item>https://i.citrus.ua/imgcache/size_800/uploads/shop/a/1/a1f7e929c82721b1876baeceac0583e6.jpg</item>
+        <item>https://i.citrus.ua/imgcache/size_800/uploads/shop/d/7/d7c5d8fa9c626228afc2d4a9cf41d0e0.jpg</item>
+        <item>https://i.citrus.ua/imgcache/size_800/uploads/shop/8/0/8076d8850f2e468c9c00d184d5159765.jpg</item>
+    </string-array>
+    <string name="EXTRAS_ID">ID</string>
+    <string name="EXTRAS_POSITION">POSITION</string>
+    <string name="list_is_empty">List is empty</string>
+    <string name="txt_dialog_bottom_remove_item">Remove item</string>
+    <string name="EXTRAS_QRCODE">qrcode</string>
+    <string name="status">Status</string>
+    <string name="code">Code</string>
+    <string name="scanned">SCANNED</string>
+
+</resources>
